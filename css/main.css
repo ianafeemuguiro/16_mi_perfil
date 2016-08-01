@@ -1,0 +1,98 @@
+
+/*MENU*/
+.about{
+	margin-top: 20%;
+	margin-left: 100%;	
+}
+.favorites{
+	margin-top: 20%;
+	text-align: center;
+}
+.contact{
+	margin-top: 20%;
+	margin-left:-60px;
+}
+/*FINAL MENU*/
+
+/*BANNER*/
+.banner {
+	background-image: url("../images/background.jpg") ; 
+	background-repeat: no-repeat;
+	background-size: cover;
+    height: 500px;
+    width: 1000px;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+.logo{
+	margin-top: 90px;
+}
+.nombre{
+	margin-top: 10px;
+	color:white;
+}
+.aboutme{
+	color: purple;
+	margin-top: 6%;
+}
+
+.me {
+	 text-align: justify;
+    text-justify: inter-word;
+}
+.foto1{
+	width: 150px;
+	margin-left: 20px;
+}
+.myfav{
+	margin-top: 50px;
+	margin-left: 390px;
+	color:purple;
+}
+.hereare{
+	margin-top: 50px;
+	margin-left: 374px;
+	color:purple;
+}
+.myfavimas{
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+	margin-top:80px;
+	margin-left: 20%;
+}
+.contactmehere{
+	color:purple;
+	text-align: center;
+	margin-top: 70px;
+}
+
+.twitter{
+	height: 80px;
+	margin-left: 300px;
+	margin-top: 50px;
+}
+.facebook{
+	height: 80px;
+	margin-left: 110px;
+	margin-top: 50px;
+}
+.linked{
+	height: 80px;
+	margin-left: -80px;
+	margin-top: 50px;
+}
+
+.backfooter{
+	background-color: #BDBDBD;
+	height: 300px;
+	margin-top: 90px;
+	width: 1000px;
+	margin-left: 55px;
+
+}
+
+*{
+	font-family: 'Oswald';
+}
